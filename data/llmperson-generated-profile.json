@@ -1,0 +1,107 @@
+{
+  "Physical Traits": {
+    "Face": {
+      "Shape": "Round",
+      "ForeheadSize": "Low",
+      "ForeheadSet": "Narrow",
+      "CheekbonesSet": "Average",
+      "Jawline": "Weak",
+      "SkinTexture": "Mature",
+      "UniqueFeatures": [
+        "CleftChin",
+        "Dimples",
+        "Freckles",
+        "Birthmark"
+      ]
+    },
+    "Eyes": {
+      "Eyebrows": "Arched",
+      "Shape": "Monolid",
+      "Size": "Medium",
+      "Setting": "Average",
+      "Color": "Hazel",
+      "Lashes": "Short",
+      "UniqueFeatures": [
+        "EyeBagPresence",
+        "Heterochromia"
+      ]
+    },
+    "Nose": {
+      "Shape": "Button",
+      "Profile": "Straight",
+      "Width": "Narrow",
+      "Length": "Short",
+      "BridgeHeight": "Flat",
+      "UniqueFeatures": [
+        "Crooked",
+        "Scarred",
+        "Pierced"
+      ]
+    },
+    "Ears": {
+      "Size": "Small",
+      "Lobes": "Detached",
+      "DistanceFromHead": "Far",
+      "UniqueFeatures": [
+        "Folded"
+      ]
+    },
+    "Mouth": {
+      "UpperLip": "Medium",
+      "LowerLip": "Medium",
+      "Shape": "Downturned",
+      "UniqueFeatures": [
+        "LipScar",
+        "Pierced"
+      ]
+    },
+    "Teeth": {
+      "Size": "Small",
+      "Appearance": "Crooked",
+      "Shape": "Squared",
+      "Alignment": "Overbite"
+    },
+    "Chin": {
+      "Shape": "Round",
+      "Prominence": "Slight",
+      "UniqueFeatures": [
+        "Cleft"
+      ]
+    },
+    "Hair": {
+      "Texture": "Straight",
+      "Color": "Black",
+      "Volume": "Average",
+      "Hairline": "Widow'sPeak",
+      "UniqueFeatures": [
+        "Braided",
+        "Highlights",
+        "Dreadlocks",
+        "Dyed"
+      ]
+    },
+    "Body": {
+      "Height": "Average",
+      "Build": "Stocky",
+      "Shoulders": "Average",
+      "TorsoLength": "Average",
+      "ArmsLength": "Short",
+      "LegsLength": "Long",
+      "SkinTone": "Light",
+      "SkinTexture": "Freckled",
+      "BodyHair": "Sparse",
+      "Hands": "Tattooed",
+      "Feet": "Scarred",
+      "Posture": "Straight",
+      "NeckLength": "Long"
+    },
+    "SexualFeatures": {
+      "BreastSize": "Small",
+      "AreolaSize": "Small",
+      "NippleShape": "Inverted",
+      "PubicHair": "Waxed",
+      "GenitalColoration": "Light",
+      "SecondarySexualTraits": "Narrow"
+    }
+  }
+}
