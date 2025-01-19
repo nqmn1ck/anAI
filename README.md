@@ -18,4 +18,4 @@ This idea reasonates heavily with some of the goals of this project - the curren
 Ana will run directly on your computer, powered by ollama. There will be no data collection, and all interactions will be securely contained within your own device. This is open-source software - so if you don't believe me, take a look yourself!
 
 ## Future goals
-Hopefully we can get a GUI interface working on not only computers but also phones and tablets. Once generative 3d modeling and real-time frame generation is there, we could even use the physical appearance generation to create a fullly interactable, realtime 3d model! This is the end goal, until robotis takes us the rest of the way and we can get one powered with anAI.
+Hopefully we can get a GUI interface working on not only computers but also phones and tablets. Once generative 3d modeling and real-time frame generation is there, we could even use the physical appearance generation to create a fullly interactable, realtime 3d model! This is the end goal, until robotics takes us the rest of the way and we can get a real-life anAI!
