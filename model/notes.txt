@@ -1,0 +1,19 @@
+AnAI  - Ana, an interactable llmperson ai. AnAI for short.
+---
+  --
+
+Main ideas/features:
+--------------------
+1) Traits and important memories are initially procedurally selected from a long database of options.
+2) New interactions being moved to the active memory state should be scanned for "important memories". If deemed an important memory,
+   the llmperson's important memories are updated with the new interaction details.
+   Important details will have to be efficiently extracted.
+
+Other ideas/features:
+---------------------
+1) Active emotional state dependent on traits and memory, used to meaningfully impact the llmperson response.
+2) Optimized encoding for memories? How optimized can we get such that the LLM can still efficiently interpret it?
+
+Long term goals:
+----------------
+1) Use personal traits to create a consistent-looking and interactable 3d model alongside response generation.

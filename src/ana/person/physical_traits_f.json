@@ -1,0 +1,102 @@
+{
+  "Face": {
+    "Shape": ["Round", "Oval", "Square", "Diamond", "Heart", "Triangular"],
+    "ForeheadSize": ["Low", "Average", "High"],
+    "ForeheadSet": ["Narrow", "Average", "Wide"],
+    "CheekbonesSet": ["Low", "Average", "High", "Prominent"],
+    "Jawline": ["Weak", "Defined", "Strong"],
+    "SkinTexture": ["Smooth", "Mature"],
+    "UniqueFeatures": ["Dimples", "Freckles", "Moles", "CleftChin", "Birthmark"]
+  },
+  "Eyes": {
+    "Eyebrows": {
+      "Thickness": ["Thin", "Medium", "Thick"],
+      "Length": ["Short", "Medium", "Long"],
+      "Shape": ["Straight", "Arched", "Angled", "Rounded"]
+    },
+    "Shape": ["Round", "Almond", "Hooded", "Monolid", "Deep-Set", "Wide-Set"],
+    "Size": ["Small", "Medium", "Large"],
+    "Setting": ["Close-Set", "Average", "Wide-Set"],
+    "Color": ["Blue", "Green", "Brown", "Hazel", "Gray", "Amber"],
+    "Lashes": ["Short", "Average", "Long"],
+    "UniqueFeatures": ["Heterochromia", "EpicanthicFold", "EyeBagPresence"]
+  },
+  "Nose": {
+    "Shape": ["Straight", "Roman", "Hooked", "Button", "Snub", "Bulbous"],
+    "Profile": ["Straight", "Round", "Bump", "Concave"],
+    "Width": ["Narrow", "Average", "Wide"],
+    "Length": ["Short", "Average", "Long"],
+    "BridgeHeight": ["Flat", "Medium", "Prominent"],
+    "UniqueFeatures": ["Crooked", "Pierced", "Scarred"]
+  },
+  "Ears": {
+    "Size": ["Small", "Medium", "Large"],
+    "Lobes": ["Attached", "Detached", "PartiallyAttached"],
+    "DistanceFromHead": ["Close", "Average", "Far"],
+    "UniqueFeatures": ["Pointed", "Pierced", "Folded"]
+  },
+  "Mouth": {
+    "UpperLip": ["Thin", "Medium", "Full"],
+    "LowerLip": ["Thin", "Medium", "Full"],
+    "Shape": ["Straight", "Downturned", "Upturned"],
+    "UniqueFeatures": ["CleftLip", "LipScar", "Pierced"]
+  },
+  "Teeth": {
+    "Size": ["Small", "Medium", "Large"],
+    "Appearance": ["Gap", "Straight", "Crooked", "Stained"],
+    "Shape": ["Rounded", "Squared", "Pointy"],
+    "Alignment": ["Perfect", "Overbite", "Underbite"]
+  },
+  "Chin": {
+    "Shape": ["Squared", "Round", "Pointy"],
+    "Prominence": ["Slight", "Average", "Strong"],
+    "UniqueFeatures": ["Cleft", "Scar"]
+  },
+  "Hair": {
+    "Texture": ["Straight", "Wavy", "Curly", "Kinky"],
+    "Color": ["Black", "LightBlond", "DarkBrown", "Brown", "Red/Brown", "Red", "StrawberryBlond", "Blond", "Gray", "White"],
+    "Volume": ["Thin", "Average", "Thick"],
+    "Hairline": ["Widow'sPeak", "Straight"],
+    "UniqueFeatures": ["Dyed", "Highlights", "Braided", "Dreadlocks"]
+  },
+  "Body": {
+    "Height": ["Short", "Average", "Tall"],
+    "Build": ["Slim", "Average", "Athletic", "Stocky", "Heavy"],
+    "Shoulders": ["Narrow", "Average", "Broad"],
+    "TorsoLength": ["Short", "Average", "Long"],
+    "ArmsLength": ["Short", "Average", "Long"],
+    "LegsLength": ["Short", "Average", "Long"],
+    "SkinTone": ["Light", "Fair", "Medium", "Olive", "Brown", "Dark"],
+    "SkinTexture": ["Smooth", "Freckled"],
+    "BodyHair": ["Sparse"],
+    "Hands": {
+      "Size": ["Small", "Medium", "Large"],
+      "Shape": ["Slender", "Broad"],
+      "UniqueFeatures": ["Scarred", "Calloused", "Tattooed"]
+    },
+    "Feet": {
+      "Size": ["Small", "Medium", "Large"],
+      "Shape": ["Arched", "Flat"],
+      "UniqueFeatures": ["Scarred", "Tattooed"]
+    },
+    "Posture": ["Straight", "SlightlyHunched", "Hunched"],
+    "NeckLength": ["Short", "Average", "Long"]
+  },
+  "SexualFeatures": {
+    "BreastSize": ["Small", "Medium", "Large"],
+    "AreolaSize": ["Small", "Medium", "Large"],
+    "NippleShape": ["Flat", "Protruding", "Inverted"],
+    "PubicHair": {
+      "Presence": ["None", "Sparse", "Moderate", "Dense"],
+      "Style": ["Natural", "Trimmed", "Shaved", "Waxed"]
+    },
+    "GenitalColoration": ["Light", "Medium", "Dark"],
+    "SecondarySexualTraits": {
+      "VoicePitch": ["High", "Medium", "Low"],
+      "MuscleMass": ["Low", "Average", "High"],
+      "FatDistribution": ["PearShaped", "AppleShaped", "Even"],
+      "BodyOdorIntensity": ["Mild", "Moderate", "Strong"],
+      "PelvicWidth": ["Narrow", "Average", "Wide"]
+    }
+  }
+}
